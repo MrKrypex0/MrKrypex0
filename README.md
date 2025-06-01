@@ -21,6 +21,6 @@
 📈 Whether it's high-performance computing, deep learning integration, or sleek frontend development — I aim for clarity, speed, and real impact in every project I take on.
 
 > _“Efficiency is a mindset — not just a metric.”_
-> > _“The idiot calls himself smart, the smart calls himself an idiot”_
+> _“The idiot calls himself smart, the smart calls himself an idiot”_
 
 📫 Feel free to explore my repositories or reach out if you’re interested in collaborating!
