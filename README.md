@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/rasmus-profile/rasmus-profile/blob/main/banner.png" alt="Rasmus' Banner" width="100%" />
+  <img src="[https://github.com/rasmus-profile/rasmus-profile/blob/main/banner.png](https://github.com/MrKrypex0/MrKrypex0/blob/main/banner.png)" alt="Rasmus' Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Rasmus — MSc Student in High-Performance Computer Systems | Engineer | Innovator
